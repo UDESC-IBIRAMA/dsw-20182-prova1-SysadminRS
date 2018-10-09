@@ -1,0 +1,6 @@
+br\com\udesc\prova01robson\controller\GenericResource.class
+br\com\udesc\prova01robson\dao\ClienteDao.class
+br\com\udesc\prova01robson\model\Cliente_.class
+br\com\udesc\prova01robson\dao\GenericDao.class
+br\com\udesc\prova01robson\model\Cliente.class
+br\com\udesc\prova01robson\controller\ApplicationConfig.class
